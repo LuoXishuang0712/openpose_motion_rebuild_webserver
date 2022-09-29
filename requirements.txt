@@ -1,0 +1,10 @@
+asgiref==3.5.2
+autopep8==1.7.0
+backports.zoneinfo==0.2.1
+Django==4.1.1
+numpy==1.23.3
+opencv-python==4.6.0.66
+pycodestyle==2.9.1
+python-opencv==1.0.0.14
+sqlparse==0.4.3
+toml==0.10.2

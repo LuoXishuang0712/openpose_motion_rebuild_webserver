@@ -10,7 +10,7 @@ import numpy as np
 import uuid
 import datetime
 
-recg = op_container("/home/luoxishuang/openpose/models/")
+recg = op_container("/home/luoxishuang/openpose/")
 
 def ret_motion(request):
     if request.method == 'POST':
