@@ -1,0 +1,3 @@
+[submodule "MotionRebuild/openpose-motion-rebuild"]
+	path = MotionRebuild/openpose-motion-rebuild
+	url = https://github.com/LuoXishuang0712/openpose-motion-rebuild
