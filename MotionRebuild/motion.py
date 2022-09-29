@@ -2,8 +2,8 @@ from typing import Union
 from django.http import HttpResponse, JsonResponse, Http404, FileResponse
 from django.core.files.uploadedfile import InMemoryUploadedFile
 
-from .builder.recognize import op_container
-from .builder.rebuild import rebuild2d, CapContainer, motion_adjust, RebuildFailException
+from .openpose_motion_rebuild.recognize import op_container
+from .openpose_motion_rebuild.rebuild import rebuild2d, CapContainer, motion_adjust, RebuildFailException
 
 import cv2
 import numpy as np
